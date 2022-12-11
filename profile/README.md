@@ -41,6 +41,24 @@ Masalah kesehatan jiwa masih menjadi masalah di tengah masyarakat dan diperparah
 
 ## Dokumentasi
 ### Deployed Link:
+https://drive.google.com/drive/folders/1psxLJ2b-vLVMfReFI4DotoFQV6ZaNpm4?usp=sharing
+
+*versi release playstore akan segera kami tambahkan link nya
+
+Akun yang bisa dicoba:
+
+Basic:
+Email : yudha17d@gmail.com
+Password : 00000000
+
+Premium:
+Email : wahed.blog99@gmail.com
+Password : wahid123
+
+Dokter:
+Email : dokter@gmail.com
+Password : dokter123
+
 
 ### Video presentation link:
 https://youtu.be/2vp_f_fCWMk
