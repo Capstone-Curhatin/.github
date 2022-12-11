@@ -43,6 +43,7 @@ Masalah kesehatan jiwa masih menjadi masalah di tengah masyarakat dan diperparah
 ### Deployed Link:
 
 ### Video presentation link:
+https://youtu.be/2vp_f_fCWMk
 
 ### Slide presentation link:
 https://pitch.com/public/76e48552-559b-4bad-bd8e-c6506684763a
